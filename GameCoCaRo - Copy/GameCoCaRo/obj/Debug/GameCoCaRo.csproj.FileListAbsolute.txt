@@ -1,0 +1,23 @@
+D:\Project\C#\GameCoCaRo\GameCoCaRo\bin\Debug\GameCoCaRo.exe.config
+D:\Project\C#\GameCoCaRo\GameCoCaRo\bin\Debug\GameCoCaRo.exe
+D:\Project\C#\GameCoCaRo\GameCoCaRo\bin\Debug\GameCoCaRo.pdb
+D:\Project\C#\GameCoCaRo\GameCoCaRo\obj\Debug\GameCoCaRo.csprojResolveAssemblyReference.cache
+D:\Project\C#\GameCoCaRo\GameCoCaRo\obj\Debug\GameCoCaRo.Properties.Resources.resources
+D:\Project\C#\GameCoCaRo\GameCoCaRo\obj\Debug\GameCoCaRo.csproj.GenerateResource.Cache
+D:\Project\C#\GameCoCaRo\GameCoCaRo\obj\Debug\GameCoCaRo.exe
+D:\Project\C#\GameCoCaRo\GameCoCaRo\obj\Debug\GameCoCaRo.pdb
+D:\Project\C#\GameCoCaRo\GameCoCaRo\obj\Debug\GameCoCaRo.GameCaro.resources
+D:\Project\C#\GameCoCaRo\GameCoCaRo\bin\Debug\ThietKeControl.dll
+D:\Project\C#\GameCoCaRo\GameCoCaRo\bin\Debug\ThietKeControl.pdb
+D:\Project\C#\GameCoCaRo - Copy\GameCoCaRo\bin\Debug\GameCoCaRo.exe.config
+D:\Project\C#\GameCoCaRo - Copy\GameCoCaRo\obj\Debug\GameCoCaRo.exe
+D:\Project\C#\GameCoCaRo - Copy\GameCoCaRo\obj\Debug\GameCoCaRo.pdb
+D:\Project\C#\GameCoCaRo - Copy\GameCoCaRo\obj\Debug\GameCoCaRo.csprojResolveAssemblyReference.cache
+D:\Project\C#\GameCoCaRo - Copy\GameCoCaRo\obj\Debug\GameCoCaRo.GameCaro.resources
+D:\Project\C#\GameCoCaRo - Copy\GameCoCaRo\obj\Debug\GameCoCaRo.Properties.Resources.resources
+D:\Project\C#\GameCoCaRo - Copy\GameCoCaRo\obj\Debug\GameCoCaRo.csproj.GenerateResource.Cache
+D:\Project\C#\GameCoCaRo - Copy\GameCoCaRo\bin\Debug\GameCoCaRo.exe
+D:\Project\C#\GameCoCaRo - Copy\GameCoCaRo\bin\Debug\GameCoCaRo.pdb
+D:\Project\C#\GameCoCaRo - Copy\GameCoCaRo\bin\Debug\ThietKeControl.dll
+D:\Project\C#\GameCoCaRo - Copy\GameCoCaRo\bin\Debug\ThietKeControl.pdb
+D:\Project\C#\GameCoCaRo - Copy\GameCoCaRo\obj\Debug\GameCoCaRo.FrmLamLai.resources
